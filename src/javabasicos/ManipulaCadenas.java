@@ -3,7 +3,6 @@ package javabasicos;
 public class ManipulaCadenas {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String nombre ="Ana";
 		System.out.println("mi nombre es " + nombre);
 		System.out.println("mi nombre tiene "+ nombre.length() + " letras");
@@ -14,5 +13,5 @@ public class ManipulaCadenas {
 		System.out.println("y la ultima letra es la " + nombre.charAt(ultima_letra-1));
 		
 	}
-
+	
 }
